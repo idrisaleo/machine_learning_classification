@@ -1,1 +1,3 @@
 # machine_learning_classification
+
+Using a dataset that predicts the likelihood an heart attack occuring due to some variables, I decided to build a reproducible classification model that will work efficiently on a set of similar data never seen before.............   
